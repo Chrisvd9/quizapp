@@ -4,7 +4,7 @@ Un simple quiz trivia tipo examen.
 Se utilizó Reactjs, JS y CSS.
 
 ## Imagenes y Livepreview
-->> [Live preview](https://chrisvd9.github.io/simple-blackjack-game/) <<-
+->> [Live preview]() <<-
 
 Imagen 1:
 ![screenShot01](images/menuquiz.png)
