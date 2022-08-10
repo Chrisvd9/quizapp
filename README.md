@@ -5,6 +5,7 @@ Se utilizó Reactjs, JS y CSS.
 
 ## Imagenes y Livepreview
 Entra aquí para ver el livepreview:
+
 ->> [Live preview](https://quizappchris.herokuapp.com/game) <<-
 
 Imagen 1:
