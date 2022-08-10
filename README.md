@@ -6,7 +6,7 @@ Se utilizó Reactjs, JS y CSS.
 ## Imagenes y Livepreview
 Entra aquí para ver el livepreview:
 
-->> [Live preview](https://quizappchris.herokuapp.com/game) <<-
+->> [Live preview](https://quizappchris.herokuapp.com/) <<-
 
 Imagen 1:
 ![screenShot01](images/menuquiz.png)
