@@ -4,7 +4,7 @@ Un simple quiz trivia tipo examen.
 Se utilizó Reactjs, JS y CSS.
 
 ## Imagenes y Livepreview
-->> [Live preview]() <<-
+->> [Live preview](https://quizappchris.herokuapp.com/game) <<-
 
 Imagen 1:
 ![screenShot01](images/menuquiz.png)
